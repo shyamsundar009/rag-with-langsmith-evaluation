@@ -52,7 +52,8 @@ Follow these steps to set up and run the evaluation:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shyamsundar009/rag-with-langsmith-evaluation
+   cd rag-with-langsmith-evaluation
    ```
 2. Create and activate a virtual environment:
    ```bash
