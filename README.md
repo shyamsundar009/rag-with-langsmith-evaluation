@@ -75,3 +75,7 @@ Follow these steps to set up and run the evaluation:
    GROQ_API_KEY="gsk_*******************************"
    ```
 5. Execute the `evaluate.ipynb` notebook to view the results.
+
+## Langsmith evaluation:
+
+https://smith.langchain.com/public/987c26d7-8a13-4290-95b1-fa3d1a22e58e/d
