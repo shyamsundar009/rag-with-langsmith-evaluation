@@ -39,7 +39,7 @@ The evaluation process is repeated three times to ensure consistency and reliabi
 ## Repository Structure
 
 - `rag.py`: Contains the code for the RAG pipeline.
-- `evaluate.ipynb`: Jupyter notebook for evaluating the RAG pipeline.
+- `evaluation_using_langsmith.ipynb`: Jupyter notebook for evaluating the RAG pipeline.
 - `requirements.txt`: List of dependencies required for the project.
 
 ## Dataset
@@ -74,7 +74,7 @@ Follow these steps to set up and run the evaluation:
    NVIDIA_API_KEY="nvapi-****************************"
    GROQ_API_KEY="gsk_*******************************"
    ```
-5. Execute the `evaluate.ipynb` notebook to view the results.
+5. Execute the `evaluation_using_langsmith.ipynb` notebook to view the results.
 
 ## Langsmith evaluation:
 
