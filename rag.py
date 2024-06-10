@@ -23,7 +23,7 @@ from langsmith import traceable
 
 class Custom_Rag():        
     def __init__(self, model):
-        openai_models = ["gpt-3.5-turbo", "gpt-4o", "gpt-4-turbo", "gpt-4-0125-preview"]
+        openai_models =["gpt-3.5-turbo", "gpt-4o","gpt-4-turbo","gpt-3.5-turbo-0125","gpt-3.5-turbo","gpt-4"]
         groq_models = ["gemma-7b-it", "mixtral-8x7b-32768", "llama3-8b-8192"]
         nvidia_api_models = ["databricks/dbrx-instruct", "microsoft/phi-3-small-8k-instruct", "google/gemma-7b", "meta/llama3-70b-instruct"]
 
